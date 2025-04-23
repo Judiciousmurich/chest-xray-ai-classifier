@@ -3,7 +3,7 @@
 
 
 
-# Chest X-ray Classification: Normal vs. COVID-19 vs. Pneumonia
+# Chest X-ray Classification: Normal vs. COVID-19 vs. Pneumonia.
 
 ![image](https://github.com/user-attachments/assets/df064514-f902-4ae6-944d-81a434bbdcf5)
 ![image](https://github.com/user-attachments/assets/7e08493f-aaf7-4425-958b-54eaa8f285e6)
